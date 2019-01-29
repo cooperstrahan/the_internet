@@ -1,0 +1,168 @@
+* {
+	outline: 0;
+	padding: 0;
+	margin: 0;
+    border: 0;
+    /* outline: 5px dotted pink; */
+    font-family: Arial, Helvetica, sans-serif;
+    }
+    #container {
+        width: 800px;
+        height: 1100px;
+        margin: 0px auto;
+    }
+    #DNS {
+        height: 125px;
+        background-image: linear-gradient(#e3e3e3, #FFFFFF);
+    }
+    #Extras {
+        width: 171px;
+        padding-bottom: 10px;
+        font-size: 106%;
+        padding-left: 3px;
+        display: inline-block;
+    }
+    #advertisement {
+        margin-top: 17px;
+        padding-top: 17px;
+        color: White;
+        text-align: center;
+        position: relative;
+        border-top: 2px solid lightgrey;
+    }
+    #ninja {
+        position: absolute;
+        margin-top: -200px;
+        margin-left: -40px;
+        /* background-color: pink; */
+    }
+    #secondheader {
+        display: inline-block;
+        vertical-align: top;
+        border-bottom: 2px solid lightgrey;
+        width: 76%;
+    }
+    #phonenumber {
+        display: inline-block;
+        vertical-align: top;
+        text-align: center;
+        padding-bottom: 10px;
+    }
+    #house {
+        display: inline-block;
+        vertical-align: top;
+        padding-right: 370px;
+        padding-top: 5px;
+    }
+    #phone {
+        display: inline-block;
+        padding: 5px;
+    }
+    #heavycontent {
+        margin-left: 182px;
+        margin-top: -63px;
+        /* font-weight: 100px; */
+    }
+    #shoey {
+        display: block;
+        border: 4px solid #1384E0;
+        margin-top: 15px;
+    }
+    #shoey img {
+        display: inline-block;
+        margin:0px;
+        padding: 10px;
+    }
+    #bigtoe {
+        display: inline-block;
+        width: 77%;
+        vertical-align: top;
+        padding-top: 15px;
+    }
+    #center {
+        margin: 10px 200px;
+    }
+    #heavycontent h4{
+        padding-bottom: 8px;
+        color: #21659E;
+    }
+    #heavycontent p, li{
+        font-size: 80%;
+    }
+    #heavycontent li{
+        margin-left: 30px;
+        padding-top: 5px;
+    }
+    #secondheader p {
+        font-weight: 50;
+        font-size: 5%;
+        vertical-align: top;
+    }
+    #secondheader h4 {
+        color: #2DC0DF;
+        font-size: 120%;
+    }
+    #house a {
+        text-decoration: none;
+        color: #21659E;
+        font-size: 90%;
+    }
+    #advertisement h3{
+        position: absolute;
+        font-weight: 100;
+        margin-top: -275px;
+    }
+    #advertisement button {
+        position: absolute;
+        font-weight: 100;
+        border-radius: 5px;
+        margin-top: -65px;
+        margin-left: -75px;
+        background-image: linear-gradient(#6DCEDF, #2FC7DE, #2DC0DF);
+        box-shadow: 2px 2px 2px #474747;
+        color: White;
+    }
+    #header h1 {
+        display: inline-block;
+        vertical-align: top;
+        padding-top: 30px;
+        margin-left: -5px;
+        font-weight: 400;
+        font-size: 255%;
+        color: #474747;
+    }
+    #header h2 {
+        display: block;
+        background-image: linear-gradient(#2E6CA2, #5283AC,#2E6CA2);
+        padding: 10px 15px;
+        font-weight: 1;
+        color: White;
+        margin-top:-20px;
+    }
+    #Extras h5, h6, button {
+        padding-top: 15px;
+    }
+    span {
+        color: #21659E;
+    }
+    span1 {
+        color: #2BAABD;
+    }
+    red {
+        color: red;
+    }
+    button {
+        background-image:linear-gradient(#5890BD, #4581B2, #2F6FA6);
+        color: white;
+        margin-left: 5px;
+        margin-top: 15px;
+        width: 90%;
+        border-radius: 5px;
+        box-shadow: 2px 2px 2px #474747;
+        padding: 7px;
+        font-size: 78%;
+    }
+    .orange {
+        background-image:linear-gradient(#EAA74A, #ED9529, #F07900);
+        margin-top: 4px;
+    }
